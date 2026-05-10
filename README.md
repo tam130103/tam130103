@@ -1,32 +1,39 @@
 # 👋 Hi there, I'm Nguyen The Tam
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Backend+%26+System+Architecture;AI+Integration+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Backend+%26+System+Architecture;AI+Integration+Enthusiast;Clean+Architecture+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
+I am a **Full-stack Developer** specializing in **Backend Engineering** and **Scalable Systems**. My expertise lies in building high-performance APIs, real-time applications, and integrating AI workflows into modern web ecosystems.
 
-I am a passionate **Full-stack Developer** with a strong focus on **Backend Engineering** and **System Architecture**. I love building reliable, scalable systems and exploring the intersection of AI and web technologies.
-
-- 🎓 **Education**: IT Major at Hanoi University of Mining and Geology (Expected 2026)
-- 💼 **Experience**: Previously a Backend Intern at **ESG TECH**, working on complex logic and architecture.
-- 🎯 **Current Focus**: Enhancing real-time communication systems and AI workflows.
-- 🌱 **Learning**: Advanced system design and cloud-native architectures.
+- 🎓 **Education**: Information Technology @ **Hanoi University of Mining and Geology** (2021 – 2026)
+- 💼 **Experience**: Backend Developer Intern @ **ESG TECH**
+- 🎯 **Focus**: Clean Architecture, System Reliability, and AI-driven Moderation.
+- 📄 **Resume**: [Download My CV](./Nguyen_The_Tam_CV.pdf)
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Experience
+**Back-end Developer Intern** | **ESG TECH** (*Nov 2025 – Apr 2026*)
+- Developed and optimized **Node.js/Express APIs** with measurable reliability improvements.
+- Streamlined data flow between services, enhancing overall user experience and system consistency.
+- Actively contributed to code reviews and sprint planning to maintain high engineering standards.
 
+---
+
+### 🛠️ Tech Stack & Tools
 <div align="center">
 
-| **Backend** | **Frontend** | **Database & DevOps** |
+| **Core Backend** | **Modern Frontend** | **Tools & DevOps** |
 | :--- | :--- | :--- |
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
+**Other Skills:** Clean Architecture, Playwright, Cloudinary, Socket.io, Stripe, Postman.
 </div>
 
 ---
