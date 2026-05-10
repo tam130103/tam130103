@@ -12,6 +12,7 @@ I am a **Full-stack Developer** specializing in **Backend Engineering** and **Sc
 - 🎓 **Education**: Information Technology @ **Hanoi University of Mining and Geology** (2021 – 2026)
 - 💼 **Experience**: Backend Developer Intern @ **ESG TECH**
 - 🎯 **Focus**: Clean Architecture, System Reliability, and AI-driven Moderation.
+- 🌐 **Portfolio**: [tam130103.github.io](https://tam130103.github.io)
 - 📄 **Resume**: [Download My CV](./Nguyen_The_Tam_CV.pdf)
 
 ---
@@ -73,7 +74,8 @@ I am a **Full-stack Developer** specializing in **Backend Engineering** and **Sc
 ### 📫 Connect with me
 - 📧 Email: [thetam2103@gmail.com](mailto:thetam2103@gmail.com)
 - 📍 Location: Hanoi, Vietnam
-- 🌐 [Portfolio/GitHub](https://github.com/tam130103)
+- 🌐 Portfolio: [tam130103.github.io](https://tam130103.github.io)
+- 💻 GitHub: [github.com/tam130103](https://github.com/tam130103)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tam130103&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
