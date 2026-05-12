@@ -59,18 +59,6 @@ I am a **Full-stack Developer** specializing in **Backend Engineering** and **Sc
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tam130103&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tam's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tam130103&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 - 📧 Email: [thetam2103@gmail.com](mailto:thetam2103@gmail.com)
 - 📍 Location: Hanoi, Vietnam
