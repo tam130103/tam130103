@@ -76,6 +76,7 @@ I am a **Full-stack Developer** specializing in **Backend Engineering** and **Sc
 - 📍 Location: Hanoi, Vietnam
 - 🌐 Portfolio: [tam130103.github.io](https://tam130103.github.io)
 - 💻 GitHub: [github.com/tam130103](https://github.com/tam130103)
+- 🔗 LinkedIn: [linkedin.com/in/nguyenthetam](https://www.linkedin.com/in/nguyenthetam/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tam130103&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
